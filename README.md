@@ -6,7 +6,7 @@ This repo was heavily inspired from [FaceX-Zoo](https://github.com/JDAI-CV/FaceX
 ### One-in-one:
 - The below flow chart is a demonstration of our first version (one id once). 
 
-![figure](./collecting_data/ver_one/one-in-one.jpg)
+![figure](./collecting_data/ver_one/pic5.png)
 
 - We firstly select ROI then system automatically choose the reference face then start reading the streaming images from cameras.
 - Deep learning models came into effect of faces detection and extraction.
@@ -17,7 +17,7 @@ Read more at [README.md](./collecting_data/ver_one/README.md).
 
 ### Some-in-one:
 
-![figure](./collecting_data/ver_two/some-in-one.jpg)
+![figure](./collecting_data/ver_two/pic4.png)
 
 As all see in the first version, the main cons is on its name: one person at one time. Needed to devise a new version which fastens the sampling time 
 such as simultaneously collecting faces of people front of the cameras.

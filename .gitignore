@@ -1,0 +1,5 @@
+*.pth
+*.pt
+*.json
+*.pkl
+*/__pycache__
