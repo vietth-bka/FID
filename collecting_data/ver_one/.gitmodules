@@ -1,0 +1,3 @@
+[submodule "app/scripts/WHENET_TRT"]
+	path = app/scripts/WHENET_TRT
+	url = http://172.21.100.253:3000/dat/WHENET_TRT.git
