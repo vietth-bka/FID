@@ -1,0 +1,3 @@
+[submodule "FaceX_Zoo"]
+	path = FaceX_Zoo
+	url = http://172.21.100.253:3000/mirror/FaceX_Zoo.git
